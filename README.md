@@ -11,3 +11,6 @@ This project can be broken up into 4 main sections:
 4. Enhancing this algorithm to solve an NP problem (A variant of the travelling salesman)
 
 The code is copyrighted by the University of Toronto, so it can't be shared publicly. If you are interested, please let me know and I'd be happy to share it with you.
+
+![image](https://github.com/user-attachments/assets/6beb913d-ae0a-43eb-b0dc-d576dbcec273)
+
